@@ -1,0 +1,1 @@
+https://quizapi.io/api/v1/questions?apiKey=scupywzLAXMOnc1U9evEXNgnr1LAp6uM92w2nXIo&category=Code
