@@ -1,8 +1,6 @@
-import { createRoot } from 'react-dom/client';
-import React from 'react'; // Import React for React.createElement
-import App from './App.jsx';
+const { createRoot } = ReactDOM;
+const App = () => React.createElement('div', null, 'Hello, World!');
 
-// Render the component using React.createElement
 createRoot(document.getElementById('root')).render(
   React.createElement(App, null)
 );
